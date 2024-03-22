@@ -48,7 +48,7 @@ public class AuthController : Controller
             assingRole = await _authService.AssignRoleAsync(obj);
             if (assingRole!=null && assingRole.IsSuccess)
             {
-                TempData["success"] = "Registration Successful";
+                TempData["success"] = "Registration Successful...";
                 return RedirectToAction(nameof(Login));
             }
         }

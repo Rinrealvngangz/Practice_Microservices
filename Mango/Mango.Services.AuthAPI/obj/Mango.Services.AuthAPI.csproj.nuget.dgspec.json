@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj": {}
+    "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj": {}
   },
   "projects": {
-    "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj": {
+    "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
+        "projectUniqueName": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
         "projectName": "Mango.Services.AuthAPI",
-        "projectPath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
+        "projectPath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
         "packagesPath": "/Users/nguyenmautuan/.nuget/packages/",
-        "outputPath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.AuthAPI/obj/",
+        "outputPath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.AuthAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nguyenmautuan/.nuget/NuGet/NuGet.Config"

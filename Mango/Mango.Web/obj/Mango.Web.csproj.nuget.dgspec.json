@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj": {}
+    "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj": {}
   },
   "projects": {
-    "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj": {
+    "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj",
+        "projectUniqueName": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj",
         "projectName": "Mango.Web",
-        "projectPath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj",
+        "projectPath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Web/Mango.Web.csproj",
         "packagesPath": "/Users/nguyenmautuan/.nuget/packages/",
-        "outputPath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Web/obj/",
+        "outputPath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nguyenmautuan/.nuget/NuGet/NuGet.Config"

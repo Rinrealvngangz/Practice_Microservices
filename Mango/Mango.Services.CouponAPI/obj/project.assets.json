@@ -4344,11 +4344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj",
+      "projectUniqueName": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj",
       "projectName": "Mango.Services.CouponAPI",
-      "projectPath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj",
+      "projectPath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.CouponAPI/Mango.Services.CouponAPI.csproj",
       "packagesPath": "/Users/nguyenmautuan/.nuget/packages/",
-      "outputPath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.CouponAPI/obj/",
+      "outputPath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.CouponAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nguyenmautuan/.nuget/NuGet/NuGet.Config"

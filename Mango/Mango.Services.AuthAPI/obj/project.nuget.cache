@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qR7tZyelPy1mk++3maTZazEEm6Zz1m3awhFrmcot+5W5nBPH6y2cnUyBDfWKBZGYJDZDFjzxZEZBkHdhqQhK4Q==",
+  "dgSpecHash": "UNMb+MiiH56fSCwitbIKd0R7JnXc7kz3c/wa6h4ZIiMU2Y4qQgkJfvTfDgTqHCd2mIcweb9F/ivZFC3HzXTOiQ==",
   "success": true,
-  "projectFilePath": "/Users/nguyenmautuan/Documents/C#/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
+  "projectFilePath": "/Users/nguyenmautuan/Practice_Microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
   "expectedPackageFiles": [
     "/Users/nguyenmautuan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/nguyenmautuan/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
