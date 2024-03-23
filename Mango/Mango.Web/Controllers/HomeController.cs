@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        string message = "Test by Tuan";
         return View();
     }
 
